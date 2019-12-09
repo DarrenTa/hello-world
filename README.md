@@ -7,6 +7,6 @@ Below is me testing out markdown with github.   I am testing if github will disp
 
 $$I=\frac{V}{R}$$
 
-I expect that that equation wont display correctly, and if so, I'll need to produce gifs of equations for github content using markdown.  If anyone reading this knows of a better way to display equations on github.  Please pull request or email me.
+I expect that that equation won't display correctly, and if so, I'll need to produce gifs of equations for github content using markdown.  If anyone reading this knows of a better way to display equations on github.  Please pull request or email me.
 
 Enjoy the ride!
